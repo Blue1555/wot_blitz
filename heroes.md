@@ -3,3 +3,5 @@
 * Nyx
 * Jack Calavera
 * Interrogación
+* Shellcol
+* John Cena
